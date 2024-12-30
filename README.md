@@ -1,10 +1,10 @@
 # University of Guelph Commerce Student
 
 ### Education
-
-### Work Experience
 Bachelor of Commerce, Management
 Certified Associate Project Manager (CAPM)
+
+### Work Experience
 
 ### Volunteer Experience
 
